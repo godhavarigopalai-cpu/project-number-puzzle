@@ -20,7 +20,7 @@ jobs:
         env:
           CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
         run: |
-          cursor-agent -p "Generate a daily weather report for 50389 Germany and save it to a markdown file named daily_weather_report.md" --model grok
+          cursor-agent -p "Generate a daily weather report for 50997 Germany and save it to a markdown file named daily_weather_report.md" --model grok
       - name: Commit and push weather report
         run: |
           git config user.name "GitHub Actions Bot"
