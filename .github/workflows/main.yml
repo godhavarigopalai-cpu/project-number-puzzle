@@ -17,4 +17,4 @@ jobs:
         env:
           CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
         run: |
-          cursor-agent -p "what is captial of germany?" --model gpt-5
+          cursor-agent -p "what is captial of germany?" --model grok
