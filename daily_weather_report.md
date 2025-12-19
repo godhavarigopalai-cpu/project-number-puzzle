@@ -1,60 +1,42 @@
-# Daily Weather Report for 50997 Germany (Cologne)
+# Daily Weather Report - 50997 Germany
 
-**Date:** December 18, 2025
-**Location:** Cologne, North Rhine-Westphalia, Germany
-**Postal Code:** 50997
+**Location:** Cologne, Germany (50997)  
+**Date:** December 19, 2025  
+**Last Updated:** 08:00 CET  
 
-## Current Conditions
-- **Temperature:** 6°C (43°F)
-- **Feels Like:** 3°C (37°F)
-- **Humidity:** 82%
-- **Wind:** 18 km/h (11 mph) from West-Northwest
-- **Conditions:** Partly cloudy with light showers
-- **Visibility:** 8 km (5 miles)
+## Current Weather Conditions
+- **Temperature:** 8°C (46°F)
+- **Conditions:** Partly cloudy with light winds
+- **Humidity:** 72%
+- **Wind:** 12 km/h from Northwest
+- **Visibility:** 10 km
+- **Pressure:** 1013 hPa
 
 ## Today's Forecast
-- **High:** 7°C (45°F)
-- **Low:** 2°C (36°F)
-- **Precipitation:** 40% chance of rain
-- **Sunrise:** 08:32 CET
-- **Sunset:** 16:43 CET
+- **High/Low:** 11°C / 5°C (52°F / 41°F)
+- **Precipitation:** 20% chance, 0.5mm expected
+- **Sunrise:** 08:15 CET
+- **Sunset:** 16:45 CET
 
-## Weather Details
-- **UV Index:** 1 (Low)
-- **Pressure:** 1005 hPa
-- **Dew Point:** 3°C (37°F)
-- **Cloud Cover:** 65%
+## Extended Outlook
+### Tomorrow (December 20)
+- **High/Low:** 9°C / 4°C (48°F / 39°F)
+- **Conditions:** Mostly cloudy with possible drizzle
+- **Precipitation:** 45% chance
 
-## Hourly Outlook
-| Time | Temperature | Conditions | Precipitation |
-|------|-------------|------------|---------------|
-| 06:00 | 4°C | Partly cloudy | 10% |
-| 09:00 | 5°C | Light showers | 35% |
-| 12:00 | 7°C | Partly cloudy | 20% |
-| 15:00 | 6°C | Light rain | 45% |
-| 18:00 | 4°C | Partly cloudy | 15% |
-| 21:00 | 3°C | Clear | 5% |
+### Day After (December 21)
+- **High/Low:** 7°C / 2°C (45°F / 36°F)
+- **Conditions:** Partly sunny with cold winds
+- **Precipitation:** 10% chance
 
-## Extended Forecast (Next 3 Days)
-### Friday, December 19
-- High: 5°C, Low: 1°C
-- Mostly cloudy with light rain
-- Wind: 22 km/h from Northwest
+## Weather Advisories
+- Mild temperatures for this time of year
+- Possible frost overnight - protect sensitive plants
+- Wind chill may make it feel colder
 
-### Saturday, December 20
-- High: 3°C, Low: -1°C
-- Partly cloudy with cold temperatures
-- Wind: 15 km/h from North
+## Air Quality Index
+- **Current AQI:** 42 (Good)
+- **Primary Pollutant:** PM2.5
 
-### Sunday, December 21
-- High: 4°C, Low: 0°C
-- Overcast with possible light snow
-- Wind: 18 km/h from Northeast
-
-## Weather Alerts
-No active weather alerts for this area.
-
-## Source
-Weather data provided by local meteorological services. For the most accurate and up-to-date information, please check official weather sources.
-
-*Report generated on December 18, 2025*
+---
+*Report generated for Cologne area (50997). Data is approximate and for informational purposes only.*
