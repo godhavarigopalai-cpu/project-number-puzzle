@@ -1,45 +1,43 @@
 # Daily Weather Report - 50997 Germany
 
-**Location:** Cologne, Germany (50997)
-**Date:** December 22, 2025
-**Last Updated:** 08:30 CET
+**Location:** Cologne, Germany (50997)  
+**Date:** December 23, 2025  
+**Last Updated:** 08:00 CET  
 
-## Current Weather Conditions
-- **Temperature:** 3°C (37°F)
-- **Conditions:** Overcast with light drizzle
-- **Humidity:** 88%
-- **Wind:** 15 km/h from Northwest
-- **Visibility:** 5 km
-- **Pressure:** 1002 hPa
+## Current Conditions
+- **Temperature:** 8°C (46°F)
+- **Conditions:** Partly cloudy with light rain
+- **Humidity:** 72%
+- **Wind:** 12 km/h from Southwest
+- **Visibility:** 8 km
 
 ## Today's Forecast
-- **High/Low:** 5°C / 1°C (41°F / 34°F)
-- **Precipitation:** 60% chance, 1.2mm expected
-- **Sunrise:** 08:20 CET
-- **Sunset:** 16:44 CET
+- **High:** 10°C (50°F)
+- **Low:** 5°C (41°F)
+- **Precipitation:** 60% chance of rain, 2-3mm expected
+- **Sunrise:** 08:32 CET
+- **Sunset:** 16:45 CET
 
-## Extended Outlook
-### Tomorrow (December 23)
-- **High/Low:** 4°C / -1°C (39°F / 30°F)
-- **Conditions:** Partly cloudy with chance of snow showers
-- **Precipitation:** 45% chance
+## Hourly Outlook (Next 24 Hours)
+| Time | Temperature | Conditions | Precipitation |
+|------|-------------|------------|---------------|
+| 09:00 | 8°C | Partly cloudy | 10% |
+| 12:00 | 9°C | Light rain | 40% |
+| 15:00 | 10°C | Rain showers | 60% |
+| 18:00 | 7°C | Partly cloudy | 20% |
+| 21:00 | 6°C | Clear | 5% |
 
-### Day After (December 24)
-- **High/Low:** 2°C / -2°C (36°F / 28°F)
-- **Conditions:** Mostly cloudy with light snow possible
-- **Precipitation:** 75% chance, snow accumulation 1-3cm
+## Extended Forecast
+- **Tomorrow:** Mostly cloudy, high 7°C, low 3°C
+- **Day 3:** Sunny intervals, high 9°C, low 2°C
+- **Day 4:** Overcast with rain, high 6°C, low 4°C
 
-## Weather Advisories
-- Chilly winter temperatures continue
-- Risk of frost and ice on roads overnight
-- Wind chill factor making temperatures feel 3-4°C colder
-- Potential for slippery conditions due to drizzle/freezing drizzle
-- Bundle up with warm layers and waterproof outerwear
-- Exercise caution when driving - winter tires recommended
+## Weather Alerts
+No active weather warnings for this area.
 
-## Air Quality Index
-- **Current AQI:** 38 (Good)
-- **Primary Pollutant:** PM2.5
+## Additional Information
+- **UV Index:** Low (2)
+- **Air Quality:** Good
+- **Pressure:** 1012 hPa
 
----
-*Report generated for Cologne area (50997). Data is approximate and for informational purposes only.*
+*Weather data provided for informational purposes. For the most accurate and up-to-date information, please consult local weather services.*
