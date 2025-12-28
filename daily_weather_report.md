@@ -1,43 +1,44 @@
 # Daily Weather Report - 50997 Germany
 
 **Location:** Cologne, Germany (50997)
-**Date:** December 27, 2025
-**Last Updated:** 08:30 CET
+**Date:** December 28, 2025
+**Last Updated:** 09:00 CET
 
 ## Current Conditions
-- **Temperature:** 4°C (39°F)
-- **Conditions:** Partly cloudy with light frost
-- **Humidity:** 78%
-- **Wind:** 12 km/h from Northeast
-- **Visibility:** 8 km
+- **Temperature:** 2°C (36°F)
+- **Conditions:** Overcast with occasional snow flurries
+- **Humidity:** 85%
+- **Wind:** 8 km/h from North
+- **Visibility:** 6 km
 
 ## Today's Forecast
-- **High:** 6°C (43°F)
-- **Low:** 1°C (34°F)
-- **Precipitation:** 25% chance of flurries, 1-2mm expected
-- **Sunrise:** 08:38 CET
+- **High:** 4°C (39°F)
+- **Low:** -1°C (30°F)
+- **Precipitation:** 60% chance of light snow, 3-5mm expected
+- **Sunrise:** 08:39 CET
 - **Sunset:** 16:47 CET
 
 ## Hourly Outlook (Next 24 Hours)
 | Time | Temperature | Conditions | Precipitation |
 |------|-------------|------------|---------------|
-| 09:00 | 5°C | Partly cloudy | 10% |
-| 12:00 | 6°C | Mostly sunny | 5% |
-| 15:00 | 5°C | Partly cloudy | 15% |
-| 18:00 | 3°C | Light snow flurries | 25% |
-| 21:00 | 2°C | Clear | 5% |
+| 10:00 | 3°C | Overcast | 20% |
+| 13:00 | 4°C | Light snow | 40% |
+| 16:00 | 3°C | Snow showers | 55% |
+| 19:00 | 1°C | Partly cloudy | 20% |
+| 22:00 | 0°C | Clear | 5% |
 
 ## Extended Forecast
-- **Tomorrow:** Cold and clear, high 4°C, low -1°C
-- **Day 3:** Increasing clouds, high 5°C, low 0°C
-- **Day 4:** Light snow possible, high 3°C, low -2°C
+- **Tomorrow:** Partly sunny with cold temperatures, high 3°C, low -2°C
+- **Day 3:** Sunny intervals, high 5°C, low 0°C
+- **Day 4:** Mostly cloudy, high 4°C, low -1°C
+- **Day 5:** Chance of snow, high 2°C, low -3°C
 
 ## Weather Alerts
-⚠️ **Frost Advisory:** Temperatures dropping below freezing overnight. Protect sensitive plants and be cautious of icy conditions in the morning.
+⚠️ **Winter Weather Advisory:** Light snow accumulations possible. Roads may be slippery. Travel with caution.
 
 ## Additional Information
-- **UV Index:** Low (2)
-- **Air Quality:** Good
-- **Pressure:** 1012 hPa (steady)
+- **UV Index:** Low (1)
+- **Air Quality:** Moderate
+- **Pressure:** 1008 hPa (falling)
 
 *Weather data provided for informational purposes. For the most accurate and up-to-date information, please consult local weather services.*
