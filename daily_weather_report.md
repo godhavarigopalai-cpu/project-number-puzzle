@@ -1,20 +1,20 @@
 # Daily Weather Report - 50997 Germany
 
 **Location:** Cologne, Germany (50997)
-**Date:** January 28, 2026
-**Last Updated:** 09:00 CET
+**Date:** January 29, 2026
+**Last Updated:** 08:00 CET
 
 ## Current Conditions
-- **Temperature:** 1°C (34°F)
-- **Conditions:** Partly cloudy with moderate winds
+- **Temperature:** 2°C (36°F)
+- **Conditions:** Mostly cloudy with light winds
 - **Humidity:** 78%
 - **Wind:** 12 km/h from North
 - **Visibility:** 10 km
 
 ## Today's Forecast
-- **High:** 3°C (37°F)
-- **Low:** -1°C (30°F)
-- **Precipitation:** 15% chance of light snow, 0.5-1mm expected
+- **High:** 4°C (39°F)
+- **Low:** 0°C (32°F)
+- **Precipitation:** 20% chance of light snow showers, 1-2mm expected
 - **Sunrise:** 08:18 CET
 - **Sunset:** 17:22 CET
 
