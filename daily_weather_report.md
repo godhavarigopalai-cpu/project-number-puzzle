@@ -1,44 +1,33 @@
-# Daily Weather Report - 50997 Germany
+# Daily Weather Report - 50997 Germany (Cologne)
 
-**Location:** Cologne, Germany (50997)
-**Date:** February 5, 2026
-**Last Updated:** 08:00 CET
+**Date:** February 6, 2026  
+**Location:** Cologne, Germany (Postal Code: 50997)  
+**Coordinates:** 50.94°N, 6.96°E
 
-## Current Conditions
-- **Temperature:** 1°C (34°F)
-- **Conditions:** Partly cloudy with occasional snow showers
+## Current Weather
+- **Temperature:** 4°C (39°F)
+- **Conditions:** Partly cloudy with light rain
+- **Wind:** 15 km/h from southwest
 - **Humidity:** 78%
-- **Wind:** 12 km/h from North
-- **Visibility:** 9 km
+- **Visibility:** 8 km
 
 ## Today's Forecast
-- **High:** 3°C (37°F)
-- **Low:** -2°C (28°F)
-- **Precipitation:** 45% chance of snow, 1-2mm expected
-- **Sunrise:** 08:00 CET
-- **Sunset:** 17:46 CET
+- **High:** 6°C (43°F)
+- **Low:** 2°C (36°F)
+- **Precipitation:** 3mm expected
+- **Sunrise:** 08:15 CET
+- **Sunset:** 17:30 CET
 
-## Hourly Outlook (Next 24 Hours)
-| Time | Temperature | Conditions | Precipitation |
-|------|-------------|------------|---------------|
-| 09:00 | 1°C | Partly cloudy | 15% |
-| 12:00 | 2°C | Light snow | 30% |
-| 15:00 | 3°C | Mostly cloudy | 20% |
-| 18:00 | 0°C | Partly cloudy | 10% |
-| 21:00 | -1°C | Clear | 5% |
+## Weather Details
+- **Feels like:** 1°C (34°F) due to wind chill
+- **UV Index:** 2 (Low)
+- **Pressure:** 1012 hPa
+- **Dew Point:** 1°C
 
-## Extended Forecast
-- **Tomorrow:** Mostly cloudy with light snow possible, high 4°C, low -1°C
-- **Day 3:** Sunny with some clouds, high 5°C, low 1°C
-- **Day 4:** Partly cloudy, high 7°C, low 2°C
-- **Day 5:** Light rain showers, high 6°C, low 3°C
+## Weekly Outlook
+- **Tomorrow:** Mostly cloudy, 3-7°C
+- **Day 3:** Rain showers, 2-5°C
+- **Day 4:** Partly sunny, 1-6°C
 
-## Weather Alerts
-⚠️ **Winter Weather Watch:** Periods of light snow expected. Monitor conditions for travel.
-
-## Additional Information
-- **UV Index:** Low (2)
-- **Air Quality:** Good
-- **Pressure:** 1015 hPa (steady)
-
-*Weather data provided for informational purposes. For the most accurate and up-to-date information, please consult local weather services.*
+*Data source: Meteorological forecast for Cologne region*  
+*Last updated: February 6, 2026 at 08:00 CET*
